@@ -1,7 +1,7 @@
 
 ## 💻 Galaxies
 
-Projeto Stage 3 -  Grid
+Projeto desenvolvido no Stage 03 do Explorer - Grid
 
 ## 🚀 Tecnologias
 
